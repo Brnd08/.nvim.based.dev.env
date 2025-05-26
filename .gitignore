@@ -1,0 +1,50 @@
+# For the seek of clarity all files from this dir (~) will be listed
+# here, and only files to be included will be uncommented
+
+##################################################
+### HERE STARTS THE LIST FOR FILES TO BE TRACKED #
+##################################################
+
+
+# > p10k config for zsh shell appearence
+#.p10k.zsh
+
+# > wezterm terminal configuration
+#.wezterm.lua
+
+
+##################################################
+### HERE STOPS THE LIST FOR FILES TO BE TRACKED ##
+##################################################
+
+# Ignore non-config dirs from machine
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Other non-related config dirs
+.cache/
+.config/
+.local/
+.npm/
+.ollama/
+.ssh/
+.swiftpm/
+.vim/
+
+# Other non-related config files 
+.CFUserTextEncoding
+.DS_Store
+.gitconfig
+.lesshst
+.profile
+.viminfo
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshrc
