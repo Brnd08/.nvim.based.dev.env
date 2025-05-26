@@ -11,11 +11,17 @@
 ### HERE STARTS THE LIST FOR FILES TO BE TRACKED #
 ##################################################
 
+# > README file for this repo
+!.README.md
+
 # > p10k config for zsh shell appearence
 !.p10k.zsh
 
 # > wezterm terminal configuration
 !.wezterm.lua
+
+# > git configs
+!.gitconfig
 
 ##################################################
 ### HERE STOPS THE LIST FOR FILES TO BE TRACKED ##

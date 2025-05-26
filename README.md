@@ -8,10 +8,11 @@ This repository *will be modified* along the way in my journey to setting a comp
 - Terminal applications
 - vim
 - nvim
-- other plugins (things like LSP support, utility files, etc)
+- other tools & plugins (things like LSP support, utility files, etc)
 
 This might also keep track of documentation pages and turorials that I find useful
 
 # Current contents:
 - `.p10k.zsh`: Configuration file for zsh shell based on [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - `.wezterm.lua`: Configuration file for wezterm terminal 
+- `.gitconfig`: Configuration file for git
