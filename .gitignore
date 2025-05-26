@@ -26,6 +26,7 @@ Movies/
 Music/
 Pictures/
 Public/
+.Trash/
 
 # Other non-related config dirs
 .cache/
