@@ -23,6 +23,10 @@
 # > git configs
 !.gitconfig
 
+# > nvim configuration files (added as a git submodule)
+!.config
+!.config/nvim
+
 ##################################################
 ### HERE STOPS THE LIST FOR FILES TO BE TRACKED ##
 ##################################################
