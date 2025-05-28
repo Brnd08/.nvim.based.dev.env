@@ -16,3 +16,4 @@ This might also keep track of documentation pages and turorials that I find usef
 - `.p10k.zsh`: Configuration file for zsh shell based on [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - `.wezterm.lua`: Configuration file for wezterm terminal 
 - `.gitconfig`: Configuration file for git
+- `.config/nvim`: Neovim configuration files as a submodule [Brdn08/my.kickstart.nvim](https://github.com/Brnd08/my.kickstart.nvim)
