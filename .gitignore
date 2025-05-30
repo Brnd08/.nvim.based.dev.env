@@ -14,11 +14,17 @@
 # > README file for this repo
 !.README.md
 
-# > p10k config for zsh shell appearence
+# > zsh shell configuration
+!.zshrc
 !.p10k.zsh
 
 # > wezterm terminal configuration
 !.wezterm.lua
+!.config
+!.config/wezterm
+!.config/wezterm/*
+!.config/wezterm/theme
+!.config/wezterm/theme/*
 
 # > git configs
 !.gitconfig
